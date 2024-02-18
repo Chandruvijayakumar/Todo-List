@@ -1,0 +1,98 @@
+
+
+.All {
+  background-color: rgb(254, 127, 131);
+  border-radius: 10px;
+}
+.All:hover {
+  background-color: rgba(26, 28, 28, 0.9);
+}
+
+.Completed {
+  background-color: green;
+  border-radius: 10px;
+}
+.btn1{
+  background-color: rgb(19, 173, 137) !important;
+}
+.p-2{
+  background-color: rgb(187, 187, 153);
+}
+.Pending {
+  background-color: rgb(253, 127, 130);
+}
+
+.card {
+  background-color: rgb(204, 245, 211);
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.19) !important;
+}
+
+.btncol {
+  display: flex;
+  justify-content: center !important;
+}
+
+select {
+  background-color: rgb(253, 127, 130);
+  color: white;
+  border-radius: 10px;
+}
+input {
+  width: 100%;
+  border: 2px solid rgb(18, 174, 137);
+  border-radius: 5px;
+}
+.input:hover{
+      background-color: rgba(26, 28, 28, 0.9);
+}
+.container-fluid {
+  color: rgb(43, 146, 125);
+}
+.Edit {
+  border: none;
+  width: 100%;
+  background-color: rgb(19, 173, 137);
+}
+.Edit:hover {
+  background-color: rgba(26, 28, 28, 0.9);
+}
+
+.save {
+  border: none;
+  width: 100%;
+  background-color: rgb(20, 173, 136);
+}
+
+.Delete {
+  border: none;
+  width: 100%;
+  background-color: rgb(209, 94, 32);
+}
+.Delete:hover {
+  background-color: rgba(26, 28, 28, 0.9);
+}
+@media screen and (max-width: 767px) {
+  .btn1 {
+    margin-top: 20px;
+    width: 50%;
+  }
+
+  input {
+    margin-top: 20px;
+  }
+}
+
+@media screen and (max-width:334px) {
+  h5 {
+    font-size: 0.6rem;
+    font-weight: bolder;
+  }
+
+  select {
+    font-size: 0.7rem;
+    width: 4rem;
+  }
+
+}
