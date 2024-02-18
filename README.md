@@ -56,8 +56,7 @@ Assign priority levels to tasks to focus on what matters most. Stay organized an
 1. **Clone the repository:**
 
     ```bash
-    https://github.com/Chandruvijayakumar/Todo list.git
-
+    https://github.com/Chandruvijayakumar/Todo-List
     ```
 
 2. **Navigate to the project directory:**
@@ -98,10 +97,10 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 
 ## Netlify Link
 
-[link](https://dashboardreact6.netlify.app/)
+[link](https://todo-list-react-day-5.netlify.app/)
 
 ```bash
-https://dashboardreact6.netlify.app/
+https://todo-list-react-day-5.netlify.app/
 ```
 
 
