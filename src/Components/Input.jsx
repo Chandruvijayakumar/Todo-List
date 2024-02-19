@@ -193,8 +193,8 @@ function TodoApp() {
                             setTodos(updatedTodos);
                           }}
                         >
-                          <option value="completed">Not Completed</option>
-                          <option value="pending">Completed</option>
+                          <option value="completed"> Completed</option>
+                          <option value="pending">Not Completed</option>
                         </select>
                       </div>
 
